@@ -5,9 +5,9 @@ Modified : Training and testing set were seperated.
 
 
 
-# Acknowledgement
+# Reference
 The work is an implementation of "Detecting Adversarial Samples from Artifacts" (Feinman et al., 2017).
 
-Reference : https://arxiv.org/abs/1703.00410
+Paper : https://arxiv.org/abs/1703.00410
 
 Original implementation Reference : https://github.com/rfeinman/detecting-adversarial-samples
