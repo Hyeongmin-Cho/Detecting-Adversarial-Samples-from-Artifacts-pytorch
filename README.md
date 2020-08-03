@@ -1,4 +1,4 @@
-# Detecting-Adversarial-Samples-from-Artifacts---pytorch
+# Detecting-Adversarial-Samples-from-Artifacts-pytorch
 A Pytorch Implementation of paper "Detecting Adversarial Samples from Artifacts"
 
 Modified : Training and testing set were seperated.
