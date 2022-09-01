@@ -10,4 +10,4 @@ The work is an implementation of "Detecting Adversarial Samples from Artifacts" 
 
 Paper : https://arxiv.org/abs/1703.00410
 
-Original implementation : https://github.com/rfeinman/detecting-adversarial-samples
+Original TF implementation : https://github.com/rfeinman/detecting-adversarial-samples
